@@ -1,4 +1,4 @@
-hotcodeload
+Hot Code Load using Code Module
 ===========
 
 Erlang Hot Code Loading 
